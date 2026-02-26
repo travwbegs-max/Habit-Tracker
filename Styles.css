@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f3f4f6;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.habit {
+  background: white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 12px;
+}
